@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashirbad929
+- 👋 Hi, I’m Ashirbad Behera
 - 👀 I’m interested in Web development ||App development 
 - 🌱 I’m currently learning Java || react.js ||
 - 💞️ I’m looking to collaborate on building websites and applications
