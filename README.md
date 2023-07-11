@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashirbad Behera
-- 👀 I’m interested in Web App development 
+- 👀 I’m interested in full-stack development 
 - 🌱 I’m currently learning Java , react.js
 - 💞️ I’m looking to collaborate on building web Apps
 - 📫 How to reach me email:ashirbad929@gmail.com
